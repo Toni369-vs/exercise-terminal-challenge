@@ -1,0 +1,97 @@
+1  npm run start
+    2  cd thecmdchallenge/
+    3  pwd
+    4  find
+    5  ls -a
+    6  clear
+    7  find -name trophy.txt
+    8  cd ./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+    9  ls
+   10  cd small-name/
+   11  ls
+   12  cd bigger-name-than-before/
+   13  ls
+   14  type "./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt"
+   15  ls
+   16  cd omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/
+   17  ls
+   18  cd this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+   19  ls
+   20  echo trophy.txt
+   21  type trophy.txt
+   22  cat trophy.txt
+   23  cd ../../..
+   24  cd ..
+   25  ls
+   26  cd funcode/
+   27  ls
+   28  ls *.js
+   29  cd the-most-funny/
+   30  mkdir "not-that-funny
+ls
+:q
+mkdir "not-that-funny
+   31  ls
+   32  mkdir not-that-funnt
+   33  ls
+   34  rm not-that-funny^Jls^J:q^Jmkdir not-that-funny/ 
+   35  find
+   36  rm -rf not-that-funny^Jls^J:q^Jmkdir not-that-funny/
+   37  ls
+   38  rm -rf 'not-that-funny'$'\n''ls'$'\n'':q'$'\n''mkdir not-that-funny'
+   39  ls
+   40  cd ..
+   41  ls
+   42  cd boringfolder/
+   43  ls
+   44  dir
+   45  find
+   46  cd event-more-boring/
+   47  ls
+   48  cd i-can-believe-how-boring/
+   49  ls
+   50  cd the-ulrimate-boring-inception/
+   51  dir
+   52  cp /boringfolder/*/the-mostboring-text.txt lol.txt
+   53  cp /boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt lol.txt
+   54  ls
+   55  cp the-mostboring-text.txt lol.txt
+   56  ls
+   57  cd ../../..
+   58  cd ..
+   59  cd funcode/
+   60  ls
+   61  mv kids.jpg images/hello/
+   62  ls
+   63  cd images
+   64  ls
+   65  find
+   66  cd ..
+   67  rm -rf small-name/
+   68  ls
+   69  find -name the-ultimate-joke.txt
+   70  cd funcode/
+   71  cd the-most-funny/
+   72  cd lol/
+   73  ls
+   74  cat the-ultimate-joke.txt 
+   75  echo the-ultimate-joke.txt 
+   76  pdw
+   77  cd ../../../..
+   78  ls
+   79  cd thecmdchallenge/
+   80  dir
+   81  rm -rf boringfolder/
+   82  ls
+   83  cd kamehameha/
+   84  ls
+   85  vi dragon-ball-jokes.md 
+   86  git add .
+   87  git commit -m Finalizado
+   88  git commit -m "finalizado"
+   89  git push
+   90  git -v
+   91  git remote -v
+   92  git add .
+   93  git commit -m "terminado"
+   94  history > history_for_print.txt
